@@ -33,11 +33,12 @@ SO THAT I can assess whether they're a good candidate for an open position
 
 
 ### Deployment
+http://localhost:3000/zanatooo/zanaty-react-portfoli
 
-
+http://192.168.1.79:3000/zanatooo/zanaty-react-portfoli
 
 Github:
-
+https://zanatooo.github.io/zanaty-react-portfolio/
 
 
 ### Author

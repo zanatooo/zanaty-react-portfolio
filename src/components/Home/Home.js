@@ -14,7 +14,7 @@ function Home(props) {
     <header className="flex-row px-1">
       <h1 class=" is-black">
         <a data-testid="link" href="/Home">
-         Anthony Ledesma
+         Mohammed Elzanaty
         </a>
       </h1>
       <nav>

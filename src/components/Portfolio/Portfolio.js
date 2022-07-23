@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import Cabana from '../../assets/large/cabana.png'
+import Cabana from '../../assets/large/budget-tracker.png'
 import NoteTaker from '../../assets/large/notetaker.png'
 import BookSearch from '../../assets/large/wiki.png'
 import TechSpot from '../../assets/large/techhut.png'

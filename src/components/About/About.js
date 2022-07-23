@@ -1,5 +1,5 @@
 import React from 'react';
-import ProfilePic from '../../assets/large/me.JPG'
+import ProfilePic from '../../assets/large/me.png'
 import Image from 'react-bootstrap/Image'
 
 function About() {

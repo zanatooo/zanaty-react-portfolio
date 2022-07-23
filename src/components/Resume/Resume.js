@@ -19,7 +19,7 @@ function Resume() {
 
                 <Button variant="light" size="lg">
 
-                  <a className="resume-anchor" style={{ color: "#000000" }} href={require('../../assets/Anthony-Ledesma.pdf').default} target="_blank" download >Download My Resume</a>
+                  <a className="resume-anchor" style={{ color: "#000000" }} href={require('../../assets/Mohammed_Elzanaty_Resume.pdf').default} target="_blank" download >Download My Resume</a>
                 </Button>
               </div>
             </div>
