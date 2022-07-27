@@ -19,7 +19,7 @@ function AppNav(props) {
       <Container fluid>
         <nav className="navbar" role="navigation">
           <div className="navbar-brand">
-            <h1 className="nav-title grad is-black">Anthony Ledesma</h1>
+            <h1 className="nav-title grad is-black">Mohammed Elzanaty</h1>
           </div>
           <Navbar.Toggle aria-controls='navbar' />
           <Navbar.Collapse id='navbar'>
