@@ -2,15 +2,12 @@
 
 # React-Portfolio
 
-Being a web developer means being part of a community. I will need a place to share my projects not only if im applying 
-for jobs or working as a freelancer but also so that i can share my work 
-with fellow developers and collaborate on future projects. 
+Being a web developer means being part of a community. I need a place to share my projects and showcase them as I apply for jobs. I also would like to share my work with fellow developers and to collaborate on future projects. 
 
 ## Introduction
 
-With this react portfolio application i am able to demonstrate my skills to recruiters when applying to software development jobs;
-Now that i've completed multiple projects, my task is to create a portfolio, using my new React skills to set me apart from other developers
-whose portfolios don’t use the latest technologies.
+With this react portfolio application I'll be able to demonstrate my skills to recruiters when applying for software development jobs;
+Now that I've completed multiple challenges and projects, my task is to create a portfolio, using my the new React skills to set me apart from other developers and to highlight all the new skills I develped during this intisive caurse. 
 
 ## User Story
 
